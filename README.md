@@ -1,36 +1,102 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<!-- 
+    MAIN TITLE
+    ModelReadme : Replace with project name
+    Language : Replace with main language for the project
 
-## Getting Started
+    Ex: Todo_ReactJS 
+-->
+# MovieApp_ReactJS
 
-First, run the development server:
+![MainImageForProject](https://placehold.co/500x300)
 
+<!-- 
+    ABOUT
+    Short summary explaining the reasons of the project and tell about worked concepts
+
+    Ex: This is a Front-End project made with HTML, CSS for design and JavaScript to work on client-side validation (Constraint API)
+-->
+## :information_source: About  
+
+This is a React project using API to retrieve movies
+
+<!-- 
+    TOOLS
+    Short list of used tools with their versions
+
+    Ex: 
+    - Go 1.18
+    - MySQL 8.0.29
+    - Bootstrap 5.2.0-beta1
+-->
+## :wrench: Tools
+- React 18
+- Tailwindcss 3.3.0
+- Next 14.0.4
+
+<!-- 
+    SETUP
+    Explain using command lines, the steps to follow to setup the project
+    At the end show, the expected result with a image   
+
+    Ex: 
+    1. Download the whole project `Travel` on your system
+    2. Open your terminal in `Travel`
+    ```
+    cd Travel
+    ```
+    3. In `Travel` directory, run:
+    ```
+    go run github.com/loickcherimont/Travel/main
+    ```
+    4. If there is no error. Go on your favorite browser and use this line in your URL address bar
+    ```
+    http://localhost:8080/travel
+    ```
+    5. Here you are! Welcome in the main page of the Web application
+
+    ![Main page of the application](assets/images/readme_images/mainpage.png)
+-->
+
+## :inbox_tray: Setup
+
+### Prerequisites
+<!-- Bullet list or simple sentence explaining what contributor needs for this project -->
+- Lorem ipsum dolor sit amet
+- Lorem ipsum dolor sit amet
+- Lorem ipsum dolor sit amet
+
+### Guidelines/Steps
+1. Lorem ipsum dolor sit amet, `consectetur` adipiscing elit
+2. Lorem **ipsum dolor sit** amet, consectetur adipiscing elit
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+# Lorem ipsum dolor sit amet
+# Lorem ipsum dolor sit amet
+# Lorem ipsum dolor sit amet
 ```
+3. Lorem ipsum dolor sit amet, *consectetur adipiscing elit*
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+![ExpectResultsAfterSetup](https://placehold.co/300x200)
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+<!-- 
+    FEATURES
+    List of the main new features, fixes to bring on the project
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+    Ex:
+    - Setup Night/Day mode
+    - Add animation when music is playing
+-->
 
-## Learn More
+## :rocket: Features
 
-To learn more about Next.js, take a look at the following resources:
+### Mobile first
+- Create the basics styles
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+<!-- 
+    LICENSE
+    Write Developer name with used license
+ -->
+## :key: License
+Made by Loick Cherimont 
+Under [license_name]  
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Last edited on: 2024-01-01
