@@ -89,7 +89,7 @@ This is a React project using API to retrieve movies
 ## :rocket: Features
 
 ### Mobile first
-- Create the basics styles
+- fix : Allow user to search a new film
 
 <!-- 
     LICENSE
