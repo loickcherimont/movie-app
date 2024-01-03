@@ -1,9 +1,0 @@
-@import "tailwindcss/base";
-@import "tailwindcss/components";
-@import "tailwindcss/utilities";
-
-
-
-.section {
-  @apply border border-red-400 min-h-screen max-h-full;
-}

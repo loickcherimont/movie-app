@@ -1,0 +1,8 @@
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+
+.app {
+  background-image: linear-gradient(rgba(0, 0, 0, .7), rgb(0, 0, 0)), url('../assets/img/background.jpg') ;
+  background-repeat: no-repeat;
+}
