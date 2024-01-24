@@ -89,7 +89,10 @@ This is a React project using API to retrieve movies
 ## :rocket: Features
 
 ### Mobile first
-- fix : Allow user to search a new film
+- ~~fix : Allow user to search a new film~~
+- Keep and the bottom the `<footer>`
+- Replace all french code by english code
+- Design : set all element in vertical mode (top to bottom)
 
 <!-- 
     LICENSE
